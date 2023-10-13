@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Saurabh-iL (Saurabh Jamanre)
+- 👋 Hi, I’m @Dev-Saurabh-iL (Saurabh Jamnare)
 - 👀 I’m interested in Power BI, SQL, Pyton
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking For Job in Data Amalyst ...
